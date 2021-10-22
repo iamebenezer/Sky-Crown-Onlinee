@@ -1,0 +1,26 @@
+body::before{
+    display: block;
+    content: '';
+    height: 56px;
+}
+h1,h2,h3{
+    font-family:Copperplate Gothic Bold;
+}
+p, button{
+    font-family: Comic Sans MS;
+}
+li,a{
+    font-family: Comic Sans MS;
+}
+#link-nav{
+    color: rgb(9, 173, 3);
+}
+#link-nav:hover{
+    color: #fff;
+    border-top: 2px solid rgb(20, 207, 14);
+}
+@media screen and (min-width:768px) {
+    .news-input{
+        width: 50%;
+    }   
+}
