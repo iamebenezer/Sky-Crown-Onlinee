@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>HTML: &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</remark></note><note><remark>&lt;!--NAVBAR--&gt;</remark></note><note><remark>&lt;!--SHOWCASE--&gt;</remark></note>WELCOME TO SKY CROWN ONLINE</para>
+  <para>Welcome to sky crown online, sky crown bakrey's website where we make it easier and faster for you to buy our bread from any where in the country, nationwide. We bring the best at your doorstep.</para>
+  <para>ORDER NOW </para>
+  <para><inlinegraphic fileref="./images%20(2).jpeg" width="0.7862inch" depth="0.3929inch"/> </para>
+  <sect1>
+    <title/>
+    <sect2>
+      <title><note><remark>&lt;!--NEWSLETTER--&gt;</remark></note>Sign Up For Our Newsletter</title>
+      <note>
+        <remark>&lt;!--NEWSLETTER--&gt;</remark>
+      </note>
+      <para>Enter </para>
+      <para><note><remark>&lt;!--OUR BREAD--&gt;</remark></note>OUR BREAD</para>
+      <para/>
+      <para/>
+      <para><inlinegraphic fileref="./images%20(1).jpeg" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para><inlinegraphic fileref="./images%20(2).jpeg" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para><inlinegraphic fileref="./images%20(3).jpeg" width="0.7862inch" depth="0.3929inch"/> </para>
+      <para><note><remark>&lt;!--Learn sections--&gt;</remark></note>OUR BRANCHES</para>
+      <para/>
+      <para><inlinegraphic fileref="./images%20(5).jpeg" width="3.0209inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>BRANCHES</title>
+      <para/>
+      <para>15, SULEMANBARU ROAD SULEJA NIGER STATE</para>
+      <para/>
+      <para>Minna Rd, 910101, Kwamba</para>
+      <para><olink targetdocent="ngcheck.com/sky-crown-bakrey/">More</olink> </para>
+      <para>OWNER &amp; DIRECTORS</para>
+      <para/>
+      <para><inlinegraphic fileref="./images%20(4).jpeg" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>DIRECTORS</title>
+      <para/>
+      <para>Bashir Baballe</para>
+      <para/>
+      <para>Safiya Abdulmumiu Sani</para>
+      <para><olink targetdocent="ngcheck.com/sky-crown-bakrey/">More</olink> </para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;!--Contact--&gt;</remark></note>CONTACT INFO</title>
+    <note>
+      <remark>&lt;!--Contact--&gt;</remark>
+    </note>
+    <para/>
+    <orderedlist>
+      <listitem>
+        <para>Main Location: Ahmadu Bello Way, Bauchi, Nigeria </para>
+        <para/>
+      </listitem>
+      <listitem>
+        <para>Delivery Phone:0801234567 </para>
+        <para/>
+      </listitem>
+      <listitem>
+        <para>Email:skycrown4@gmail.com </para>
+        <para/>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>&lt;!--FOOTER--&gt;</remark></note>Copyright © SKY CRWON ONLINE</para>
+    <para>Developer - Ebenezer Abegunde </para>
+    <para/>
+  </sect1>
+</article>
